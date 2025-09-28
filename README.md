@@ -1,4 +1,4 @@
-# 🛠️ CAD to URDF Conversion for Mars Rover Components
+# 🛠️ URDF for Mars Rover Components
 
 This repository contains URDF (Unified Robot Description Format) files generated from SolidWorks assemblies of major subsystems in our Mars Rover project. These files are essential for simulating and visualizing the robot in ROS-based environments like RViz and Gazebo.
 
